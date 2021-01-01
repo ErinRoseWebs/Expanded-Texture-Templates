@@ -12,6 +12,9 @@ This is for textures that you can't make in MCreator due to it's current limitat
 What's the *sounds* folder?
 This is a folder that contains many 1.16 sounds for MCreator v2020.5 and below. v2020.6/2021.1 has 1.16 support, and many sounds from 1.16.
 
+Addng custom content:
+Just create a folder with your name, and dump your templates in the same format as the Vanilla folder. CHECK TO MAKE SURE THERE ARE NO SIMILAR NAMES AS SOME FILES MIGHT GET OVERWRITTEN WHEN A USER DOWNLOADS THE PACK.
+
 
 *Contributors of the Vanilla branch are not associated with Mojang AB. All material shared within the Vanilla branch belongs to Mojang AB.*
 
